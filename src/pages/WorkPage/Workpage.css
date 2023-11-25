@@ -2,14 +2,14 @@
   margin-top: 10vh;
 }
 
-.swiper-button-next, .swiper-button-prev {
+.swiper-button-next,
+.swiper-button-prev {
   color: var(--color7);
 }
 
 .swiper-pagination-bullet {
   color: var(--color7);
 }
-
 
 .slider-img {
   width: 100vw;
@@ -29,11 +29,11 @@
 
 .site-description h1::after {
   display: block;
-  content: '';
+  content: "";
   position: absolute;
   height: 10px;
   width: 80vw;
-  left: 10vw; 
+  left: 10vw;
   margin-top: 1rem;
   background-color: var(--color5);
 }
@@ -55,6 +55,10 @@
 
 .paragraph p {
   padding: 0 1rem;
+}
+
+.paragraph .para {
+  text-align: justify;
 }
 
 .paragraph a {

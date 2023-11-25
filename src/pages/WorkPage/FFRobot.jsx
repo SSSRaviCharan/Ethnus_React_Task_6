@@ -11,7 +11,7 @@ function FFR() {
       <ImgSlider photos={photos} />
       <h1>Fire Fighting Robot</h1>
       <div className="paragraph">
-        <p>
+        <p className="para">
           The fire-fighting robot is an IoT project powered by Arduino, designed
           to reduce human intervention in fire emergencies. It autonomously
           detects and extinguishes fires, enhancing safety by leveraging IoT
