@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/Ethnus_React_Task_6/static/css/main.f9e80175.css",
-    "main.js": "/Ethnus_React_Task_6/static/js/main.5c3028f0.js",
+    "main.css": "/Ethnus_React_Task_6/static/css/main.c7f01a8d.css",
+    "main.js": "/Ethnus_React_Task_6/static/js/main.ab298efa.js",
+    "static/media/fitsync_dash.png": "/Ethnus_React_Task_6/static/media/fitsync_dash.2282ba79b749c9872177.png",
+    "static/media/fitsync_workout.png": "/Ethnus_React_Task_6/static/media/fitsync_workout.3eba5694d3188698fcde.png",
+    "static/media/fitsync_meal.png": "/Ethnus_React_Task_6/static/media/fitsync_meal.6ad6c0db6fe3dd35f521.png",
+    "static/media/fitsync_bodyfat.png": "/Ethnus_React_Task_6/static/media/fitsync_bodyfat.a45677ec6053c29d1dbb.png",
+    "static/media/fitsync_idealweight.png": "/Ethnus_React_Task_6/static/media/fitsync_idealweight.46c6e5d7d487554bd127.png",
+    "static/media/fitsync_bmi.png": "/Ethnus_React_Task_6/static/media/fitsync_bmi.abb5c175486cf6a32cc4.png",
     "static/media/ffrobot1.jpg": "/Ethnus_React_Task_6/static/media/ffrobot1.9c6f2ca73041730a1e2d.jpg",
     "static/media/ffrobot.jpg": "/Ethnus_React_Task_6/static/media/ffrobot.fa925df90d1aa1a442a9.jpg",
     "static/media/pfp.jpeg": "/Ethnus_React_Task_6/static/media/pfp.1f2246738c374a77dc4e.jpeg",
+    "static/media/fitsync_logo3.png": "/Ethnus_React_Task_6/static/media/fitsync_logo3.2caca952e1329fb949ff.png",
     "index.html": "/Ethnus_React_Task_6/index.html",
-    "main.f9e80175.css.map": "/Ethnus_React_Task_6/static/css/main.f9e80175.css.map",
-    "main.5c3028f0.js.map": "/Ethnus_React_Task_6/static/js/main.5c3028f0.js.map"
+    "main.c7f01a8d.css.map": "/Ethnus_React_Task_6/static/css/main.c7f01a8d.css.map",
+    "main.ab298efa.js.map": "/Ethnus_React_Task_6/static/js/main.ab298efa.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9e80175.css",
-    "static/js/main.5c3028f0.js"
+    "static/css/main.c7f01a8d.css",
+    "static/js/main.ab298efa.js"
   ]
 }
